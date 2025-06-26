@@ -182,10 +182,11 @@ Users can easily select their beer preferences using an interactive sidebar (sty
 
 After clicking "Get Recommendations", the system returns a personalized list of top-rated beers.
 
-![Beer Recommendations](./screenshots/beer_recommendations_output.png)
+![User Interface](./screenshots/beer_recommendations_output.png)
+
+![User Interface](./screenshots/beer_analytics.png)
 
 
-![Analytics Dashboard](./screenshots/beer_analytics.png)
 ---
 
 ## References
