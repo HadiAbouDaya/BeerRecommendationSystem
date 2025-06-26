@@ -169,8 +169,23 @@ docker run -p 8000:8000 -p 8501:8501 beer-recommender
 
 ## Examples & Screenshots
 
-> _Add screenshots of your Streamlit app, sample recommendations, and key visualizations here._
 
+### 🧭 1. Streamlit User Interface
+
+Users can easily select their beer preferences using an interactive sidebar (styles, ABV range, location).
+
+![User Interface](./screenshot/beer_ui_selection.png)
+
+---
+
+### 🍻 2. Recommendations Output
+
+After clicking "Get Recommendations", the system returns a personalized list of top-rated beers.
+
+![Beer Recommendations](./screenshot/beer_recommendations_output.png)
+
+
+![Analytics Dashboard](./screenshot/beer_analytics.png)
 ---
 
 ## References
