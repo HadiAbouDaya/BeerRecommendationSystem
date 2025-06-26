@@ -195,17 +195,12 @@ After clicking "Get Recommendations", the system returns a personalized list of 
 - [Final Project Guidelines – Recommender Systems (PDF)](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/76296225/159233ee-6908-4bf6-8a45-97c1390f79f0/guideline1.pdf)
 - [Kaggle: Beer Reviews Dataset](https://www.kaggle.com/datasets/rdoume/beerreviews)
 
----
-
-## License
-
-> _Specify your license here (e.g., MIT, Apache 2.0, etc.)._
 
 ---
 
 ## Contact
 
-Project by **HadiAbouDaya** **Charlotte Vautrin** , **Camille Coulon**, **Maurice Nasr**
+Project by **HadiAbouDaya** , **Charlotte Vautrin** , **Camille Coulon** and **Maurice Nasr**
 For questions or contributions, please open an issue or contact the maintainers.
 
 ---
