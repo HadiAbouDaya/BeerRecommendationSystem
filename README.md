@@ -174,7 +174,7 @@ docker run -p 8000:8000 -p 8501:8501 beer-recommender
 
 Users can easily select their beer preferences using an interactive sidebar (styles, ABV range, location).
 
-![User Interface](./screenshot/beer_ui_selection.png)
+![User Interface](./screenshots/beer_ui_selection.png)
 
 ---
 
@@ -182,10 +182,10 @@ Users can easily select their beer preferences using an interactive sidebar (sty
 
 After clicking "Get Recommendations", the system returns a personalized list of top-rated beers.
 
-![Beer Recommendations](./screenshot/beer_recommendations_output.png)
+![Beer Recommendations](./screenshots/beer_recommendations_output.png)
 
 
-![Analytics Dashboard](./screenshot/beer_analytics.png)
+![Analytics Dashboard](./screenshots/beer_analytics.png)
 ---
 
 ## References
