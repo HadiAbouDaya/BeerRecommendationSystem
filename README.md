@@ -147,8 +147,7 @@ docker run -p 8000:8000 -p 8501:8501 beer-recommender
 
 ## Team Roles
 
-- **Data Engineer:** Data cleaning, feature engineering, EDA.
-- **ML Developer(s):** Model development, training, evaluation.
+- **Data Engineer/ ML Developer:** Data cleaning, feature engineering, EDA, Model development, training, evaluation. 
 - **Frontend/UI Developer:** Streamlit app design and implementation.
 - **Backend Developer:** FastAPI API, Dockerization, deployment.
 - **Project Manager:** Planning, integration, documentation, reporting.
