@@ -1,0 +1,5 @@
+# Frontend (Streamlit + viz)
+streamlit==1.28.1
+pandas==2.1.3      # pandas<2 requires numpy<2
+altair<6,>=4.0
+numpy==1.24.3

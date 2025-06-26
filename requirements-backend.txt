@@ -1,0 +1,15 @@
+# Backend (FastAPI + TF)
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+tensorflow==2.18.0
+tensorflow-datasets==4.9.9
+tensorflow-recommenders==0.7.3
+
+numpy==2.0.2
+scikit-learn==1.6.1
+joblib==1.5.1
+
+python-multipart==0.0.6
+requests==2.31.0
+pandas==2.3.0

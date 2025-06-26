@@ -1,0 +1,9 @@
+user_encoded
+beer_encoded
+review_profilename
+beer_beerid
+review_overall
+beer_style
+beer_abv
+review_aroma
+review_time

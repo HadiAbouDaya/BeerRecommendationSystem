@@ -1,0 +1,9 @@
+metric,value
+total_users,18837.0
+total_beers,31909.0
+total_reviews,1523311.0
+train_size,1218648.0
+test_size,304413.0
+unique_styles,104.0
+avg_reviews_per_user,80.86802569411265
+avg_reviews_per_beer,47.73922717728541
