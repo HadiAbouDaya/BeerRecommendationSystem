@@ -1,5 +1,6 @@
 # 🍺 Beer Recommendation System
 
+
 ## Overview
 
 A full-stack Beer Recommendation System built on the BeerAdvocate dataset. Users receive personalized beer recommendations based on explicit preferences (beer styles, ABV, breweries, etc.). The system includes a modular data pipeline, a preference-based AI model, a FastAPI backend, and a Streamlit frontend—all containerized for easy deployment.
@@ -188,7 +189,7 @@ docker run -p 8000:8000 -p 8501:8501 beer-recommender
 
 ## Contact
 
-Project by **HadiAbouDaya** ... Put the rest of the names  
+Project by **HadiAbouDaya** **Charlotte Vautrin** , **Camille Coulon**, **Maurice Nasr**
 For questions or contributions, please open an issue or contact the maintainers.
 
 ---
