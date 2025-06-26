@@ -199,9 +199,7 @@ After clicking "Get Recommendations", the system returns a personalized list of 
 
 ## Contact
 
-Project by **HadiAbouDaya** , **Charlotte Vautrin** , **Camille Coulon** and **Maurice Nasr**
+Project by **Hadi Abou Daya** , **Charlotte Vautrin** , **Camille Coulon** and **Maurice Nasr**
 For questions or contributions, please open an issue or contact the maintainers.
 
 ---
-
-_This README follows all requirements and best practices from the project guidelines and is tailored to your actual structure and Dockerized workflow._
